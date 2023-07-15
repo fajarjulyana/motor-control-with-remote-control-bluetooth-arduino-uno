@@ -15,8 +15,6 @@ Untuk menjalankan proyek ini, Anda akan memerlukan hal-hal berikut:
 - Arduino IDE (atau perangkat lunak yang kompatibel)
 - Kabel jumper
 
-###
-
 ### Instalasi
 ## Pengkabelan
 <img src="capture/wiring-car-bt.png">
@@ -33,7 +31,8 @@ Berikut adalah pengkabelan yang diperlukan untuk proyek ini:
 | 4           | -               | Koneksi motor Kanan Atas      |
 
 Pastikan untuk menghubungkan pin dengan benar sesuai dengan motor driver dan modul Bluetooth yang Anda gunakan.
-
+### Kode
+https://github.com/fajarjulyana/motor-control-with-remote-control-bluetooth-arduino-uno/blob/0cc3b96e47e5851f5958d96509e73554860bb15d/code/code.cpp#L5-L103
 
 1. Hubungkan modul Bluetooth ke Pin Analog Arduino.
 2. Hubungkan motor DC ke motor driver.

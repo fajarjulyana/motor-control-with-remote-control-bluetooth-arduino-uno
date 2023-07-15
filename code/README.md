@@ -1,5 +1,7 @@
+# Penjelasan Kode
+## Kode nya
+https://github.com/fajarjulyana/motor-control-with-remote-control-bluetooth-arduino-uno/blob/b9941bffda52123a67e8ac727a5aae553ad66f2c/code/code.cpp#L5-L103
 Kode  program Arduino yang mengontrol gerakan motor DC menggunakan Bluetooth. Berikut adalah penjelasan singkat tentang kode tersebut:
-
 1. Baris 4-10: Mendefinisikan library yang akan digunakan, yaitu SoftwareSerial untuk komunikasi serial melalui pin digital dan AFMotor untuk mengontrol motor DC.
 
 2. Baris 12-15: Mendefinisikan objek SoftwareSerial dengan nama btSerial. Objek ini digunakan untuk berkomunikasi dengan modul Bluetooth.

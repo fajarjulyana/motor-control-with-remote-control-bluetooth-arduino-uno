@@ -23,8 +23,8 @@ Berikut adalah pengkabelan yang diperlukan untuk proyek ini:
 
 | Arduino Pin | Motor Driver Pin | Keterangan                    |
 |-------------|-----------------|-------------------------------|
-| A0          | RX (Bluetooth)  | Pin penerimaan data Bluetooth |
-| A1          | TX (Bluetooth)  | Pin pengiriman data Bluetooth |
+| A0          | TX (Bluetooth)  | Pin pengiriman data Bluetooth |
+| A1          | RX (Bluetooth)  | Pin penerimaan data Bluetooth |
 | 1           | -               | Koneksi motor Kiri Atas       |
 | 2           | -               | Koneksi motor Kiri Bawah      |
 | 3           | -               | Koneksi motor Kanan Bawah     |

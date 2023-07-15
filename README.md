@@ -65,12 +65,4 @@ Kontribusi untuk proyek ini sangat diterima. Anda dapat berkontribusi dengan men
 
 Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
-## Penghargaan
-
-- Proyek ini terinspirasi oleh [Masukkan Inspirasi di Sini].
-- Terima kasih khusus kepada [Nama Kontributor] atas [kontribusi atau bantuan spesifik].
-
-## Kontak
-
-Jika Anda memiliki pertanyaan, saran, atau umpan balik, jangan ragu untuk menghubungi pemelihara proyek:
-
+## Dokumentasi
